@@ -1,2 +1,2 @@
 # adorsys-email-template
-HTML/Tailwind email template for Adorsys
+HTML/CSS email template for Adorsys
